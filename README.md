@@ -1,6 +1,6 @@
 ![Logo](documentation/images/logo.png)
 
-# Trillo - Master Flexbox
+# Nexter - Master Grid
 
 Nexter is a static real estate website.
 
